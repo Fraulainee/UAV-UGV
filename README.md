@@ -31,9 +31,11 @@ sudo make install
 ```
 ### ROS and MAVRos
 
-Install ros noetic [here](http://wiki.ros.org/noetic/Installation/Ubuntu)
+Install ros noetic [here](http://wiki.ros.org/noetic/Installation/Ubuntu) 
+
 Install MAVRos [here](https://docs.px4.io/main/en/ros/mavros_installation.html)
-Clone the ws [here]([ROS and MAVRos](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_ros_20_04.md#4-clone-iq-simulation-ros-package))
+
+Clone the ws([ROS and MAVRos](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_ros_20_04.md#4-clone-iq-simulation-ros-package))
 
 
 ## Build
