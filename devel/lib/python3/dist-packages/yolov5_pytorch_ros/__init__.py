@@ -1,0 +1,1 @@
+/home/user2/catkin_ws/devel/.private/yolov5_pytorch_ros/lib/python3/dist-packages/yolov5_pytorch_ros/__init__.py

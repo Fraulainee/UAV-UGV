@@ -1,0 +1,23 @@
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _yolov5_pytorch_ros_generate_messages_check_deps_BoundingBox
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _yolov5_pytorch_ros_generate_messages_check_deps_BoundingBoxes
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[ 25%] Built target yolov5_pytorch_ros_generate_messages_eus
+[ 50%] Built target yolov5_pytorch_ros_generate_messages_py
+[ 66%] Built target yolov5_pytorch_ros_generate_messages_nodejs
+[ 83%] Built target yolov5_pytorch_ros_generate_messages_lisp
+[100%] Built target yolov5_pytorch_ros_generate_messages_cpp
+[100%] Built target yolov5_pytorch_ros_generate_messages

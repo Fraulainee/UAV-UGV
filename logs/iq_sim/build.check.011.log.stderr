@@ -1,0 +1,27 @@
+CMake Warning (dev) at CMakeLists.txt:2 (project):
+  Policy CMP0048 is not set: project() command manages VERSION variables.
+  Run "cmake --help-policy CMP0048" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The following variable(s) would be set to empty:
+
+    CMAKE_PROJECT_VERSION
+    CMAKE_PROJECT_VERSION_MAJOR
+    CMAKE_PROJECT_VERSION_MINOR
+    CMAKE_PROJECT_VERSION_PATCH
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[31m[1mCMake Error[0m at /home/user2/catkin_ws/build/iq_sim/cmake/iq_sim-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/user2/catkin_ws/src/iq_sim/msg/WaypointList.msg' depends on.  Did
+  you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [Waypoint]: unknown package [mavros_msgs] on search
+  path [{{'iq_sim': ['/home/user2/catkin_ws/src/iq_sim/msg'], 'std_msgs':
+  ['/opt/ros/noetic/share/std_msgs/cmake/../msg']}}]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:72 (generate_messages)
+
+
+make: *** [Makefile:530: cmake_check_build_system] Error 1

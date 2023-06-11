@@ -1,0 +1,8 @@
+prefix=/home/user2/catkin_ws/install
+
+Name: yolov5_pytorch_ros
+Description: Description of yolov5_pytorch_ros
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

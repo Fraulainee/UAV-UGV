@@ -1,0 +1,8 @@
+prefix=/home/user2/catkin_ws/devel/.private/async_web_server_cpp
+
+Name: async_web_server_cpp
+Description: Description of async_web_server_cpp
+Version: 0.0.3
+Cflags: -I/home/user2/catkin_ws/src/async_web_server_cpp/include -I/usr/include
+Libs: -L${prefix}/lib -lasync_web_server_cpp /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+Requires: 
